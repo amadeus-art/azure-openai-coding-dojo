@@ -17,3 +17,4 @@ venv.bak/
 
 */db/
 */embeddings*/
+.DS_Store
