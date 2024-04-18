@@ -11,6 +11,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.env
 
 # PyCharm
 .idea/
@@ -18,3 +19,5 @@ venv.bak/
 **/db/
 **/embeddings*/
 **/.DS_Store
+
+
